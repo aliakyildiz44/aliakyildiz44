@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali 
-- 👀 I’m interested in front-end web developer.
+- 👀 I’m interested in front-end.
 - 🌱 I’m currently learning react
 -
 <!---
