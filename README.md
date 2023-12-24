@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">Software Engineering Student</h3>
 
-- 🌱 I’m currently learning **React, Swift**
+- 🌱 I’m currently learning **React, Swift, Node.js. Express.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
