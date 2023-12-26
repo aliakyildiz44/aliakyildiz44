@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">Software Engineering Student</h3>
-<h1>I am interested in Mern stack projects, Swift mobile app and database management (data guard, exadata, tunning).</h1>
+<h4>I am interested in Mern stack projects, Swift mobile app and database management (data guard, exadata, tunning).</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
